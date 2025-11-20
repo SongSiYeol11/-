@@ -1,20 +1,4 @@
 
-; Day 2 — 서울시 인구 데이터 수집
-
-; 서울 열람데이터 광장에서 인구수 데이터 다운로드
-
-; 데이터 설명서(메타데이터) 확인
-
-; data/raw/population.csv 저장
-
-; Jupyter Notebook에서 데이터 로딩 테스트
-
-
-
-
-
-
-
 ; Day 3 — 교통(지하철역/버스정류장) 데이터 수집
 
 ; 지하철역 데이터 다운로드
@@ -297,3 +281,15 @@ visuals/
 
 Python 가상환경 만들기 & 필수 라이브러리 설치
 (pandas, numpy, matplotlib, seaborn, requests, folium)
+
+
+Day 2 — 서울시 인구 데이터 수집
+
+서울 열람데이터 광장에서 인구수 데이터 다운로드
+
+데이터 설명서(메타데이터) 확인
+
+data/raw/population.csv 저장
+
+Jupyter Notebook에서 데이터 로딩 테스트
+
